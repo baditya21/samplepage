@@ -514,7 +514,6 @@ a:focus {
 /*******************************/
 .about {
     position: relative;
-    text-align: center;
     width: 100%;
     margin-top: 100px;
     padding: 45px 0 15px 0;
@@ -558,7 +557,6 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    text-align: center;
     padding-top: 90px;
     background: #494b50;
 }
