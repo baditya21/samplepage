@@ -290,9 +290,9 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    max-width: 100%;
     height: 75px;
     display: flex;
+    max-width: 100%;
     align-items: center;
     background: #ffffff;
 }
@@ -365,7 +365,6 @@ a:focus {
 
 .nav-bar {
     position: relative;
-    max-width: 100%;
     background: #494b50;
 }
 
